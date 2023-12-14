@@ -1,0 +1,6 @@
+@lifeline{
+    l1;l2;l3;l4
+}
+@message{
+    m1;m2;m3;m4;m5
+}
